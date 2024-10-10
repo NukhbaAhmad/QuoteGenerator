@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(153, 131, 153);
+  /* border: 1px solid red; */
+}
+
+/* WebName */
+.Quotopia {
+  font-size: 50px;
+  color: white;
+  margin-left: 10%;
+  margin-top: 30px;
+  font-style: italic;
+}
+
+/* GET A QUOTE */
+.GetQuote {
+  color: rgb(145, 96, 145);
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 3px;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.GetQuote:hover {
+  color: white;
+  background-color: rgb(145, 96, 145);
+  border: 2px solid white;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+/* CONTAINER - QuoteDisplay */
+.QuoteDsiplay {
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: rgb(145, 96, 145);
+}
+
+/* AuthorName */
+.author {
+  color: black;
+  font-size: 17px;
+  font-style: italic;
+  background-color: rgb(145, 96, 145);
+  text-align: end;
+}
+/* Quote */
+.quote {
+  color: white;
+  font-size:19px;
+  background-color: rgb(145, 96, 145);
+  text-align: justify;
+}
